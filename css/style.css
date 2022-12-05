@@ -23,7 +23,7 @@ body {
 .list-content-block-filter li{
 	padding:6px;
 	display: block;
-	line-height: 16px;
+	line-height: 13px;
 }
 .list-content-block-filter li:before {
 	padding-right: 5px;
